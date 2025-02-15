@@ -1,0 +1,10 @@
+---
+title: "Ahmad Khalid"
+--- 
+Hello! My name is Ahmad Khalid currently I'm a part time student completing my Masters Degree in Business Analytics at Baruch College. I completed my Bachlor's degree in Finance at Baruch College. Currently I live in Queens, New York (born and raised). One of my hobbies is that I like to workout and I also have two pet cats. One is named Fluffy and the othe Simba. 
+```{r}
+#| include: false
+1+1
+```
+--------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
